@@ -1,48 +1,52 @@
 <h1 align="center">Hi 👋, I'm Taha Ahvazi</h1>
-<h3 align="center">A passionate Flutter developer, backend engineer, and AI enthusiast from Iran 🇮🇷</h3>
+<h3 align="center">A Full-Stack Developer | Mobile Expert (Flutter, Kotlin, Java) | Backend Engineer (FastAPI, DRF, Spring Boot) | AI Explorer 🤖</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Flutter+Developer;Backend+Engineer+(FastAPI%2FDRF);AI+Enthusiast;Clean+Architecture+Lover;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5A0&center=true&width=700&lines=Flutter+%2F+Kotlin+%2F+Java+Mobile+Developer;Full-Stack+Web+%26+API+Engineer;FastAPI+%7C+Django+REST+%7C+Spring+Boot;AI+%26+NLP+Enthusiast;Clean+Architecture+Practitioner;Always+learning+something+new+🚀" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on a **Flutter Content Editor** app  
-- 🌱 I’m learning **AI (NLP, ParsBERT)** and **DRF deeply**
-- 👯 I’m looking to collaborate on **FastAPI, Clean Architecture projects**
-- 🤖 Exploring **AI integration in Flutter & FastAPI**
-- 💬 Ask me about **Flutter, Django REST, FastAPI, Supabase, Clean Architecture**
-- 📫 How to reach me: [Instagram](https://www.instagram.com/taha.codes/) | [LinkedIn](https://www.linkedin.com/in/tahaahvazi/)  
-- ⚡ Fun fact: I code 🧠 and swim 🏊‍♂️ daily!
+## 🔥 About Me
+- 🔭 Currently building a **Flutter content editor** app with full text/image control  
+- 💼 Full-Stack Dev: Mobile + Backend + Architecture  
+- 🌱 Deep diving into **AI/NLP**, **Spring Boot**, and **DRF**  
+- 💬 Ask me about **Flutter**, **FastAPI**, **Supabase**, **Spring**, or **Security**  
+- 👯 I’m looking to collaborate on AI/Flutter backend-integration  
+- 📫 Reach me on [Instagram](https://www.instagram.com/taha.codes/) | [LinkedIn](https://www.linkedin.com/in/tahaahvazi/)  
+- ⚡ Fun fact: I'm a machine that swims 💦 and codes 💻  
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Skills & Tech Stack
 
 ### 🚀 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🔧 Backend & API
+### 🔧 Backend Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🧰 Architecture & DB
+### 🧰 Tools & Architecture
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🤖 AI & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-F6C913?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![ParsBERT](https://img.shields.io/badge/ParsBERT-NLP-blueviolet?style=for-the-badge)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.instagram.com/taha.codes/" target="_blank">
@@ -66,21 +70,22 @@
 ---
 
 ## 🏆 Top Contributions
+
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=TahaAhvazi&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
-## 💼 Currently Working On
-- ✅ Flutter Content Editor (Text/Image editing like InShot)
-- ✅ Supabase + Flutter full-stack integration
-- ✅ AI-based Question Answering System in Persian
+## 🚧 Current Projects
+- 🛠️ Flutter Content Editor (text/image overlays with custom controls)
+- 🧪 Persian NLP Q&A System with FastAPI + ParsBERT
+- ⚙️ Full-stack Supabase + Flutter integration with auth, DB & storage
 
 ---
 
-## ✍️ Quote of the Day
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 💡 Quote of the Day
+> “Stay hungry, stay foolish.” – Steve Jobs
 
 ---
 
