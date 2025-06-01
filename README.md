@@ -2,18 +2,18 @@
 <h3 align="center">A passionate Full Stack Mobile developer, and AI enthusiast</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Full Stack Mobile +Developer;Backend+Engineer+(FastAPI%2FDRF);AI+Enthusiast;Clean+Architecture+Lover;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Mobile+Developer;Backend+Engineer+(FastAPI%2FDRF);AI+Enthusiast;Clean+Architecture+Lover;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on a **Flutter Content Editor** app  
+- 🔭 I’m currently working on a **Flutter Ai based** apps
 - 🌱 I’m learning **AI (NLP, ParsBERT)** and **DRF deeply**
 - 👯 I’m looking to collaborate on **FastAPI, Clean Architecture projects**
 - 🤖 Exploring **AI integration in Flutter & FastAPI**
 - 💬 Ask me about **Flutter, Django REST, FastAPI, Supabase, Clean Architecture**
-- 📫 How to reach me: [Instagram](https://www.instagram.com/taha.codes/) | [LinkedIn](https://www.linkedin.com/in/tahaahvazi/)  
+- 📫 How to reach me: [Instagram](https://www.instagram.com/tahaahvazii/) | [LinkedIn](https://www.linkedin.com/in/tahaahvazi/)  
 - ⚡ Fun fact: I code 🧠 and swim 🏊‍♂️ daily!
 
 ---
